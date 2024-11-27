@@ -28,9 +28,9 @@ This project involves deploying and configuring a Security Information and Event
 - Improved knowledge of virtual networking and access control.
 
 ## Screenshots
-![Screenshot 1](path-to-screenshot(186).jpg)
-![Screenshot 2](path-to-screenshot(190).jpg)
-![Screenshot 2](path-to-screenshot(191).jpg)
+![Screenshot 1](https://github.com/h-e-y-t-h-a-m/Cloud-Security-Projects/blob/main/Screenshot%20(186).png)
+![Screenshot 2](https://github.com/h-e-y-t-h-a-m/Cloud-Security-Projects/blob/main/Screenshot%20(190).png)
+![Screenshot 2](https://github.com/h-e-y-t-h-a-m/Cloud-Security-Projects/blob/main/Screenshot%20(191).png)
 
 ## How to Access
 [Project Repository Link](https://github.com/your-username/SIEM-Azure-Project)
